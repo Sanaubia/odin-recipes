@@ -1,0 +1,14 @@
+
+h1, h2, h3, h4  {
+    color: #493628;
+    font-weight: bold;
+}
+
+body {
+    background-color: #E4E0E1;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+}
